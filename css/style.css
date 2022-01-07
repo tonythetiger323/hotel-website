@@ -42,3 +42,8 @@ p {
   float: left;
   padding-top: 20px;
 }
+
+#navbar ul {
+  list-style: none;
+  float: right;
+}
