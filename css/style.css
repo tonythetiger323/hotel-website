@@ -26,3 +26,14 @@ h3 {
 p {
   margin: 10px;
 }
+
+/* Navbar */
+#navbar {
+  background: #333;
+  color: #fff;
+  overflow: auto;
+}
+
+#navbar a {
+  color: #fff;
+}
