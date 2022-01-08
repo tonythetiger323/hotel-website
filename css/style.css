@@ -82,3 +82,8 @@ main .main-content {
   text-align: center;
   padding-top: 200px;
 }
+
+main .main-content h1 {
+  font-size: 65px;
+  line-height: 1.5em;
+}
