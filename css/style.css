@@ -75,3 +75,10 @@ p {
   background: #444;
   color: #f7c08a;
 }
+
+/* Main Section */
+main .main-content {
+  color: #fff;
+  text-align: center;
+  padding-top: 200px;
+}
