@@ -26,6 +26,11 @@
   cursor: pointer;
   padding: 10px 15px;
 }
+
+.bttn:hover {
+  background: #f7c08a;
+  color: #000;
+}
 /* Main Styling */
 html,
 body {
