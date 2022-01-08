@@ -19,6 +19,11 @@ body {
   line-height: 1.7em;
 }
 
+main {
+  background: url("../img/showcase.jpg");
+  height: 600px;
+}
+
 a {
   color: #333;
   text-decoration: none;
