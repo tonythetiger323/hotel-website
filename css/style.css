@@ -16,6 +16,16 @@
 .txt-highlight {
   color: #f7c08a;
 }
+
+.bttn {
+  display: inline-block;
+  font-size: 20px;
+  color: #fff;
+  background: #333;
+  border: none;
+  cursor: pointer;
+  padding: 10px 15px;
+}
 /* Main Styling */
 html,
 body {
@@ -94,4 +104,5 @@ main .main-content h1 {
 
 main .main-content p {
   font-size: 20px;
+  line-height: 1.5em;
 }
