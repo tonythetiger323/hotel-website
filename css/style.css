@@ -39,7 +39,7 @@ body {
 }
 
 main {
-  background: url("../img/showcase.jpg");
+  background: url("../img/showcase.jpg") no-repeat center center/cover;
   height: 600px;
 }
 
@@ -51,7 +51,7 @@ a {
 h1,
 h2,
 h3 {
-  padding-bottom: 20px;
+  padding-bottom: 10px;
 }
 
 p {
@@ -99,7 +99,7 @@ p {
 main .main-content {
   color: #fff;
   text-align: center;
-  padding-top: 200px;
+  padding-top: 150px;
 }
 
 main .main-content h1 {
@@ -110,4 +110,5 @@ main .main-content h1 {
 main .main-content p {
   font-size: 20px;
   line-height: 1.5em;
+  padding-bottom: 20px;
 }
